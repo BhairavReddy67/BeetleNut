@@ -1,0 +1,634 @@
+{
+    "beetleNut": [
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Badlapur",
+            "Address": "Platform Number 9 3/4 ",
+            "City": "Pasadena",
+            "Contact Number": "9831670869, 24896229",
+            "Branch Incharge": "Mr Kung fu Pandey",
+            "Pincode covered": "700018, 700024, 700044, 700066"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Wasseypur",
+            "Address": "Platform Number 9 3/5",
+            "City": "Pasadena",
+            "Contact Number": "9830587378",
+            "Branch Incharge": "Mr Kejriwal",
+            "Pincode covered": "711103, 711109"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Sundarnagar",
+            "Address": "Platform Number 9 3/6",
+            "City": "Pasadena",
+            "Contact Number": "22695777, 9330854205",
+            "Branch Incharge": "Mr Yadav",
+            "Pincode covered": "700007"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Mordor",
+            "Address": "Platform Number 9 3/7",
+            "City": "Pasadena",
+            "Contact Number": "9339149816",
+            "Branch Incharge": "Mr Charles Goodwin",
+            "Pincode covered": "700059, 700052, 700159, 700136, 700157, 700135"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Shire",
+            "Address": "Platform Number 9 3/8",
+            "City": "Pasadena",
+            "Contact Number": "9836675966",
+            "Branch Incharge": "Mr Barry Richardds",
+            "Pincode covered": "700008, 700063, 700061, 700060, 700034, 700038, 700058"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Osgilliath",
+            "Address": "Platform Number 9 3/9",
+            "City": "Pasadena",
+            "Contact Number": "9330744663, 32612545, 24867225",
+            "Branch Incharge": "Mr Anrold Schwartzenegger",
+            "Pincode covered": "700025, 700020"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Gondor",
+            "Address": "Platform Number 9 3/10",
+            "City": "Pasadena",
+            "Contact Number": "22256975, 9331406092",
+            "Branch Incharge": "Mr Vinod Kambli",
+            "Pincode covered": "700001, 700012, 700073"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Rohan",
+            "Address": "Platform Number 9 3/11",
+            "City": "Pasadena",
+            "Contact Number": "22435157, 30281570, 8961369388",
+            "Branch Incharge": "Mr Roast Master",
+            "Pincode covered": "700069, 700072, 700013, 700001, 700069"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Isengard",
+            "Address": "Platform Number 9 3/12",
+            "City": "Pasadena",
+            "Contact Number": "9051561160, 8981727579",
+            "Branch Incharge": "Mr.Manish Sisodia",
+            "Pincode covered": "700012, 700013"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Central Perk",
+            "Address": "Platform Number 9 3/13",
+            "City": "Pasadena",
+            "Contact Number": "65537730, 9830456531",
+            "Branch Incharge": "Mr Charu Sharma",
+            "Pincode covered": "700072, 700013"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Winterfell",
+            "Address": "Platform Number 9 3/14",
+            "City": "Pasadena",
+            "Contact Number": "22823137, 9339970938",
+            "Branch Incharge": "Ms.Mandira Bedi",
+            "Pincode covered": "700071, 700017,700020"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Sea of Theseus",
+            "Address": "Platform Number 9 3/15",
+            "City": "Pasadena",
+            "Contact Number": "9339970940, 033-22103512",
+            "Branch Incharge": "Mr Ram Gopal Verma",
+            "Pincode covered": "700001"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Don's Mansion",
+            "Address": "Platform Number 9 3/16",
+            "City": "Pasadena",
+            "Contact Number": "9339936827",
+            "Branch Incharge": "Sir Sir Sir Ravindra Jaedga",
+            "Pincode covered": "700001"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Hogwardts",
+            "Address": "Platform Number 9 3/17",
+            "City": "Pasadena",
+            "Contact Number": "9339149821,",
+            "Branch Incharge": "Mr Manoj Kumar (Bharat)",
+            "Pincode covered": "700030, 700050, 700090"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Platform 3/4",
+            "Address": "Platform Number 9 3/18",
+            "City": "Pasadena",
+            "Contact Number": "9339970937",
+            "Branch Incharge": "Mr Viru Sahastra Buddhey",
+            "Pincode covered": "700073, 700001"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Dongri",
+            "Address": "Platform Number 9 3/19",
+            "City": "Pasadena",
+            "Contact Number": "9339149810,",
+            "Branch Incharge": "Mr Vijay Dinanath Chauhan",
+            "Pincode covered": "700019, 700029, 700031, 700068, 700042, 700107, 700078, 700075"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Dubai",
+            "Address": "Platform Number 9 3/20",
+            "City": "Pasadena",
+            "Contact Number": "033-30622420,8420062681",
+            "Branch Incharge": "Mr Sambha",
+            "Pincode covered": "700007"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Karimgunj",
+            "Address": "Platform Number 9 3/21",
+            "City": "Pasadena",
+            "Contact Number": "9339841477",
+            "Branch Incharge": "Thakurji",
+            "Pincode covered": "711102, 711101, 711104,"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Chinchpokli",
+            "Address": "Platform Number 9 3/22",
+            "City": "Pasadena",
+            "Contact Number": "9088126251",
+            "Branch Incharge": "Mr PK",
+            "Pincode covered": "700087, 700013, 700069, 700016,"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Chiplun",
+            "Address": "Platform Number 9 3/23",
+            "City": "Pasadena",
+            "Contact Number": "9330660677, 033-30683692",
+            "Branch Incharge": "Mr Ranchodas Syamaldas Chhanchad",
+            "Pincode covered": "700007, 700006"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Kargil",
+            "Address": "Platform Number 9 3/24",
+            "City": "Pasadena",
+            "Contact Number": "033-26774547, 9339411467",
+            "Branch Incharge": "Mr Amar",
+            "Pincode covered": "711113, 711105, 711101,"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "LOC",
+            "Address": "Platform Number 9 3/25",
+            "City": "Pasadena",
+            "Contact Number": "9339149802",
+            "Branch Incharge": "Mr Prem",
+            "Pincode covered": "700026, 700033, 700045, 700095, 700040, 700047, 700032,&#10; 700041, 700082, 700093, 700070, 700084, 700086, 700092,&#10; 700094, 700096, 700099,"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "LAC",
+            "Address": "Platform Number 9 3/26",
+            "City": "Pasadena",
+            "Contact Number": "9339970924",
+            "Branch Incharge": "Mr Crime Master Gogo",
+            "Pincode covered": "700085, 700010, 700011, 700015, 700054,"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Mandwa",
+            "Address": "Platform Number 9 3/27",
+            "City": "Pasadena",
+            "Contact Number": "9339970936",
+            "Branch Incharge": "Mr Teja Main Hoon",
+            "Pincode covered": "700023, 700045, "
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Chennai Xpress",
+            "Address": "Platform Number 9 3/28",
+            "City": "Pasadena",
+            "Contact Number": "9339466021",
+            "Branch Incharge": "Mr Anand Akela",
+            "Pincode covered": "700089, 700048, 700055, 7000101, 700102"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Mocambo's Cave",
+            "Address": "Platform Number 9 3/29",
+            "City": "Pasadena",
+            "Contact Number": "033-22156404",
+            "Branch Incharge": "Mr Raveena Urf Karishna",
+            "Pincode covered": "700013"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Gabbar's Plateau",
+            "Address": "Platform Number 9 3/30",
+            "City": "Pasadena",
+            "Contact Number": "9339970934",
+            "Branch Incharge": "Ms Karishma Urf Ravina",
+            "Pincode covered": "711107, 711204, 711202, 711201,"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Kasaul",
+            "Address": "Platform Number 9 3/31",
+            "City": "Pasadena",
+            "Contact Number": "033-22192333,9331086356",
+            "Branch Incharge": "Mr Robert",
+            "Pincode covered": "700073, 700009"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Manaal",
+            "Address": "Platform Number 9 3/32",
+            "City": "Pasadena",
+            "Contact Number": "033-22352320, 9830219907",
+            "Branch Incharge": "Mr Bhalla",
+            "Pincode covered": "700007"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Sergeant at Arms",
+            "Address": "Platform Number 9 3/33",
+            "City": "Pasadena",
+            "Contact Number": "9339149811",
+            "Branch Incharge": "Mr Pappu Gandhi",
+            "Pincode covered": "700014, 700046"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Krispy Chilly",
+            "Address": "Platform Number 9 3/34",
+            "City": "Pasadena",
+            "Contact Number": "9339970931",
+            "Branch Incharge": "Mr Kim Chee Salad",
+            "Pincode covered": "700001,"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Dove 3/4th Mois",
+            "Address": "Platform Number 9 3/35",
+            "City": "Pasadena",
+            "Contact Number": "9339930423",
+            "Branch Incharge": "Mr Jai Singh",
+            "Pincode covered": "700074, 700055, 700028, 700080, 700081, 700079, 700051, 700052"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Mclaren's",
+            "Address": "Platform Number 9 3/36",
+            "City": "Pasadena",
+            "Contact Number": "9339149818",
+            "Branch Incharge": "Ms Basanti",
+            "Pincode covered": "700053"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Capitol Building",
+            "Address": "Platform Number 9 3/37",
+            "City": "Pasadena",
+            "Contact Number": "9339791567",
+            "Branch Incharge": "Dr Garbage Bin",
+            "Pincode covered": "700053"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "West Wing",
+            "Address": "Platform Number 9 3/38",
+            "City": "Pasadena",
+            "Contact Number": "033-32590307",
+            "Branch Incharge": "Dr Shedlon Cooper",
+            "Pincode covered": "700017, 700039, 700016, 700100, 700105, "
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Freddy's place",
+            "Address": "Platform Number 9 3/39",
+            "City": "Pasadena",
+            "Contact Number": "9339970939",
+            "Branch Incharge": "Dr Rowdy Rathore",
+            "Pincode covered": "700001, 700012"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "The Cheesecake Factory",
+            "Address": "Platform Number 9 3/40",
+            "City": "Pasadena",
+            "Contact Number": "033-22597892",
+            "Branch Incharge": "Mr Rahul (naam to suna hoga)",
+            "Pincode covered": "700007"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Sheldon's Time Machine",
+            "Address": "Platform Number 9 3/41",
+            "City": "Pasadena",
+            "Contact Number": "9339149803",
+            "Branch Incharge": "MrTeja (Mark idhar hai)",
+            "Pincode covered": "700006, 700007"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Penny's apartment",
+            "Address": "Platform Number 9 3/42",
+            "City": "Pasadena",
+            "Contact Number": "033-22192458, 7439412862",
+            "Branch Incharge": "Mr Deepak Chourasia",
+            "Pincode covered": "700007, 700006"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Starbucks",
+            "Address": "Platform Number 9 3/43",
+            "City": "Pasadena",
+            "Contact Number": "033-26753836,9339149814",
+            "Branch Incharge": "Mr AIB",
+            "Pincode covered": "711106, 711101"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "The Brown Stone",
+            "Address": "Platform Number 9 3/44",
+            "City": "Pasadena",
+            "Contact Number": "9331010493",
+            "Branch Incharge": "Mr Yo Yo honey Singh",
+            "Pincode covered": "700091, 700064, 700106"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Christie's Den",
+            "Address": "Platform Number 9 3/45",
+            "City": "Pasadena",
+            "Contact Number": "033-25302241,9339970941",
+            "Branch Incharge": "Mr Piku",
+            "Pincode covered": "700037, 700002, 700006,700004, 700030"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Summersault",
+            "Address": "Platform Number 9 3/46",
+            "City": "Pasadena",
+            "Contact Number": "9330001853",
+            "Branch Incharge": "Mr Ross Geller",
+            "Pincode covered": "700110, 700111, 700112, 700113, 700114, 700115, 700116, 700117, 700118&#10;, 700119"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Kkkkkkiran's Nest",
+            "Address": "Platform Number 9 3/47",
+            "City": "Pasadena",
+            "Contact Number": "9830165441, 033 22426744",
+            "Branch Incharge": "Ms Chanandler Bong",
+            "Pincode covered": "700001"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Las Vegas Boulevard",
+            "Address": "Platform Number 9 3/48",
+            "City": "Pasadena",
+            "Contact Number": "9330648535, 9339246760",
+            "Branch Incharge": "Mr Ugly Naked Guy",
+            "Pincode covered": "700019"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Wynn Palace",
+            "Address": "Platform Number 9 3/49",
+            "City": "Pasadena",
+            "Contact Number": "9332984588",
+            "Branch Incharge": "Mr Red( Because I'm Irish)",
+            "Pincode covered": "700007"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Brooklyn Bridge",
+            "Address": "Platform Number 9 3/50",
+            "City": "Pasadena",
+            "Contact Number": "9330172083",
+            "Branch Incharge": "Ms Monica Obsessive Geller",
+            "Pincode covered": "700002"
+        },
+        {
+            "Insitution Name": "Beetle Nut",
+            "Branch Name": "Times Square",
+            "Address": "Platform Number 9 3/51",
+            "City": "Pasadena",
+            "Contact Number": "033-30622420,8420062681",
+            "Branch Incharge": "Ms Phoebe Hyper Buffay",
+            "Pincode covered": "700007"
+        }
+    ],
+    "brachLogin":[
+        {
+            "Branch Name": "admin",
+            "password": "0123456789"
+        },
+        {
+            "Branch Name": "Badlapur",
+            "password": "Badlapur"
+        },
+        {
+            "Branch Name": "Wasseypur",
+            "password": "Wasseypur"
+        },
+        {
+            "Branch Name": "Sundarnagar",
+            "password": "Sundarnagar"
+        },
+        {
+            "Branch Name": "Mordor",
+            "password": "Mordor"
+        },
+        {
+            "Branch Name": "Shire",
+            "password": "Shire"
+        },
+        {
+            "Branch Name": "Osgilliath",
+            "password": "Osgilliath"
+        },
+        {
+            "Branch Name": "Gondor",
+            "password": "Gondor"
+        },
+        {
+            "Branch Name": "Rohan",
+            "password": "Rohan"
+        },
+        {
+            "Branch Name": "Isengard",
+            "password": "Isengard"
+        },
+        {
+            "Branch Name": "Central Perk",
+            "password": "Central Perk"
+        },
+        {
+            "Branch Name": "Winterfell",
+            "password": "Winterfell"
+        },
+        {
+            "Branch Name": "Sea of Theseus",
+            "password": "Sea of Theseus"
+        },
+        {
+            "Branch Name": "Don's Mansion",
+            "password": "Don's Mansion"
+        },
+        {
+            "Branch Name": "Hogwardts",
+            "password": "Hogwardts"
+        },
+        {
+            "Branch Name": "Platform 3/4",
+            "password": "Platform 3/4"
+        },
+        {
+            "Branch Name": "Dongri",
+            "password": "Dongri"
+        },
+        {
+            "Branch Name": "Dubai",
+            "password": "Dubai"
+        },
+        {
+            "Branch Name": "Karimgunj",
+            "password": "Karimgunj"
+        },
+        {
+            "Branch Name": "Chinchpokli",
+            "password": "Chinchpokli"
+        },
+        {
+            "Branch Name": "Chiplun",
+            "password": "Chiplun"
+        },
+        {
+            "Branch Name": "Kargil",
+            "password": "Kargil"
+        },
+        {
+            "Branch Name": "LOC",
+            "password": "LOC"
+        },
+        {
+            "Branch Name": "LAC",
+            "password": "LAC"
+        },
+        {
+            "Branch Name": "Mandwa",
+            "password": "Mandwa"
+        },
+        {
+            "Branch Name": "Chennai Xpress",
+            "password": "Chennai Xpress"
+        },
+        {
+            "Branch Name": "Mocambo's Cave",
+            "password": "Mocambo's Cave"
+        },
+        {
+            "Branch Name": "Gabbar's Plateau",
+            "password": "Gabbar's Plateau"
+        },
+        {
+            "Branch Name": "Kasaul",
+            "password": "Kasaul"
+        },
+        {
+            "Branch Name": "Manaal",
+            "password": "Manaal"
+        },
+        {
+            "Branch Name": "Sergeant at Arms",
+            "password": "Sergeant at Arms"
+        },
+        {
+            "Branch Name": "Krispy Chilly",
+            "password": "Krispy Chilly"
+        },
+        {
+            "Branch Name": "Dove 3/4th Mois",
+            "password": "Dove 3/4th Mois"
+        },
+        {
+            "Branch Name": "Mclaren's",
+            "password": "Mclaren's"
+        },
+        {
+            "Branch Name": "Capitol Building",
+            "password": "Capitol Building"
+        },
+        {
+            "Branch Name": "West Wing",
+            "password": "West Wing"
+        },
+        {
+            "Branch Name": "Freddy's place",
+            "password": "Freddy's place"
+        },
+        {
+            "Branch Name": "The Cheesecake Factory",
+            "password": "The Cheesecake Factory"
+        },
+        {
+            "Branch Name": "Sheldon's Time Machine",
+            "password": "Sheldon's Time Machine"
+        },
+        {
+            "Branch Name": "Penny's apartment",
+            "password": "Penny's apartment"
+        },
+        {
+            "Branch Name": "Starbucks",
+            "password": "Starbucks"
+        },
+        {
+            "Branch Name": "The Brown Stone",
+            "password": "The Brown Stone"
+        },
+        {
+            "Branch Name": "Christie's Den",
+            "password": "Christie's Den"
+        },
+        {
+            "Branch Name": "Summersault",
+            "password": "Summersault"
+        },
+        {
+            "Branch Name": "Kkkkkkiran's Nest",
+            "password": "Kkkkkkiran's Nest"
+        },
+        {
+            "Branch Name": "Las Vegas Boulevard",
+            "password": "Las Vegas Boulevard"
+        },
+        {
+            "Branch Name": "Wynn Palace",
+            "password": "Wynn Palace"
+        },
+        {
+            "Branch Name": "Brooklyn Bridge",
+            "password": "Brooklyn Bridge"
+        },
+        {
+            "Branch Name": "Times Square",
+            "password": "Times Square"
+        }
+    ]
+}
