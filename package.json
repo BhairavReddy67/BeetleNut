@@ -1,5 +1,6 @@
 {
   "name": "beetle_nut",
+  "homepage": "https://bhairavreddy67.github.io/BeetleNut/",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,12 +8,15 @@
     "database": "npm start --prefix database",
     "server": "npm start --prefix Backend",
     "client": "npm start --prefix Frontend",
-    "start": "concurrently \"npm run client\" \"npm run server\" \"npm run database\""
+    "start": "concurrently \"npm run client\" \"npm run server\" \"npm run database\"",
+    "predeploy": "npm start", 
+    "deploy": "gh-pages -d start"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^6.2.0"
+    "concurrently": "^6.2.0",
+    "gh-pages": "^3.2.1"
   },
   "description": ""
 }
